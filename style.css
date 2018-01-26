@@ -1,0 +1,19 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    text-align-last: left
+}
+h3 {
+    float: middle
+}
+ul {
+    float: right
+}
